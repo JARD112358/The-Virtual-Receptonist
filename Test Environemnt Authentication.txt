@@ -1,0 +1,5 @@
+Label,Value
+tenant,3d4hy4.onmicrosoft.com
+client_id,81c248d9-655d-4916-8441-92a13fd47d5e
+client_secret,JG57Q~cbRNNj1Wu3JCIM7OMOIHB_ghWyX3fCT
+email, dcc@3d4hy4.onmicrosoft.com

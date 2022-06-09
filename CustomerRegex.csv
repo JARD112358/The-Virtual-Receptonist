@@ -1,0 +1,12 @@
+Customer,EmailRegex,PORegex,QuoteRegex,DrawingRegex,POFileLocationReader,POFileLocationCustomer,QuoteFileLocation,DrawingFileLocation
+ADANDE,(.*)@adande\.com,^PO(\d+)-\d\d-\d\d.pdf$,,(.*).dxf$,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\AdandeConverter\\,K:\\Purchase Orders\\ADANDE\\,K:\Customer Quotes\ADANDE,
+BAKER PERKINS,(.*)@bakerperkins\.com,^(\d+) Roundhouse.pdf$,,n/a,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\BakerPerkinsConverter\\,K:\\Purchase Orders\\BAKER PERKINS\\,K:\Customer Quotes\BAKER PERKINS,
+BOSCH,(.*)@boschrexroth\.co\.uk,^PO (\d+).pdf$,,n/a,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\BoschConverter\\,K:\\Purchase Orders\\BOSCH\\,K:\Customer Quotes\BOSCH,
+BRADMAN-LAKE,(.*)@bradmanlake\.com,^1PU(\d+).pdf$,,n/a,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\BradmanLake\\,K:\\Purchase Orders\\BRADMAN-LAKE\\,K:\Customer Quotes\BRADMAN-LAKE,K:\\Customer Drawings\\BRADMAN LAKE
+FORDS,(.*)@fordsps\.com,^(\d+).pdf$,,(.*).dxf$,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\FordsConverter\\,K:\\Purchase Orders\\FORDS\\,K:\Customer Quotes\FORDS,
+HARROD,(.*)@harrod\.uk\.com,^(PurchOrd|Order)_(\d+).pdf$,,(.*).dxf$,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\HarrodConverter,K:\\Purchase Orders\\HARROD\\,K:\Customer Quotes\HARROD,
+HYDRA RIG,(.*)@nov\.com,^PO (\d+).pdf$,,(.*).dxf$,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\HydraConverter\\,K:\\Purchase Orders\\HYDRA RIG\\,K:\Customer Quotes\HYDRA RIG,
+PHAROS,(.*)@pharosmarine\.com,^Purchase Order (\d+).pdf$,,n/a,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\PharosConverter\\,K:\\Purchase Orders\\PHAROS\\,K:\Customer Quotes\PHAROS,
+TIMBERWOLF,(.*)@timberwolf-uk\.com,^Timberwolf Purchase Order - PO-\d+\.pdf$,,,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\TimberwolfConverter\\,K:\\Purchase Orders\\TIMBERWOLF\\,K:\Customer Quotes\TIMBERWOLF,
+WESTROCK,(.*)@westrock\.com,^P(\d+) Round House.pdf$,,^LS-(\d+).zip$,\\ROUAPPVM1\\MIE Trak\\FileReaderFiles\\WestrockConverter\\,K:\\Purchase Orders\\WESTROCK\\,K:\Customer Quotes\WESTROCK,
+Test,qwertyuiopasdfghjklzxcvbnm,,,,,,K:\Customer Quotes\TEST,C:\\Users\josha\PycharmProjects\The Virtual Receptonist\Test Storage
